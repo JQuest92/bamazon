@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JQuest92/bamazon.git"
+  },
+  "keywords": [
+    "mysql",
+    "express",
+    "inquirer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JQuest92/bamazon/issues"
+  },
+  "homepage": "https://github.com/JQuest92/bamazon#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
+}
